@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://red-angle.surge.sh">
+    <a target="_blank" rel="noopener noreferrer" href="https://red-angle.surge.sh">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/brandovidal/404-not-found">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandovidal/404-not-found">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a target="_blank" rel="noopener noreferrer" href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -48,7 +48,9 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  [Live demo](https://red-angle.surge.sh)
+  <a target="_blank" rel="noopener noreferrer" href="https://red-angle.surge.sh">
+      Live demo
+    </a>
 
 - What was your experience?
   I feel gratifying to be able to solve this challenge.
