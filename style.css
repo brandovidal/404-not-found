@@ -74,7 +74,7 @@ a {
   max-width: 540px;
   transition: 1500ms;
   margin-top: 5px;
-  animation: pulse infinite 2500ms;
+  animation: pulse infinite 3000ms;
 }
 .container .principal img {
   width: 100%;
@@ -159,7 +159,7 @@ a {
   .container .principal picture {
     padding: 60px 0;
     max-width: 285px;
-    animation: pulse-mobile infinite 2500ms;
+    animation: pulse-mobile infinite 4000ms;
   }
   .container .content {
     margin: 0;
@@ -198,7 +198,7 @@ a {
     transform-origin: bottom center;
   }
   50% {
-    transform: scale(1.15);
+    transform: scale(1.1);
     transform-origin: bottom center;
   }
   100% {

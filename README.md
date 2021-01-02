@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://zealous-drink.surge.sh">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/brandovidal/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -26,32 +26,44 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+*Screenshot Laptop*
+
+![screenshot Laptop](404-not-found.png)
+
+*Screenshot Mobile*
+
+![screenshot Mobile](404-not-found-mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  [Live demo](https://zealous-drink.surge.sh)
+
 - What was your experience?
+  I feel gratifying to be able to solve this challenge.
+
 - What have you learned/improved?
+  Website layout, responsive design and animations.
+
 - Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://html5.org/)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Features
 
@@ -70,6 +82,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Brando Vidal](https://brandovidal.com)
+- GitHub [@brandovidal](https://github.com/brandovidal)
+- Twitter [@brandovidal](https://twitter.com/brandovidal_)
