@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a target="_blank" rel="noopener noreferrer" href="https://red-angle.surge.sh">
+    <a href="https://red-angle.surge.sh">
       Demo
     </a>
     <span> | </span>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandovidal/404-not-found">
+    <a href="https://github.com/brandovidal/404-not-found">
       Solution
     </a>
     <span> | </span>
-    <a target="_blank" rel="noopener noreferrer" href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -37,20 +37,18 @@
 
 ## Overview
 
-*Screenshot Laptop*
+_Screenshot Laptop_
 
-![screenshot Laptop](404-not-found.png)
+![Screenshot Laptop](404-not-found.png)
 
-*Screenshot Mobile*
+_Screenshot Mobile_
 
-![screenshot Mobile](404-not-found-mobile.png)
+![Screenshot Mobile](404-not-found-mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  <a target="_blank" rel="noopener noreferrer" href="https://red-angle.surge.sh">
-      Live demo
-    </a>
+  [Live demo](https://red-angle.surge.sh)
 
 - What was your experience?
   I feel gratifying to be able to solve this challenge.
@@ -72,7 +70,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 

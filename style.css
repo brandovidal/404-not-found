@@ -7,7 +7,7 @@
 
   --font-default: "Space Mono", sans-serif;
   --font-primary: "Inconsolata", sans-serif;
-  --font-secondary: "Montserrat", sans-serif;
+  --font-info: "Montserrat", sans-serif;
 }
 
 html,
@@ -33,12 +33,10 @@ a {
 
 /**** Container ****/
 .container {
-  /* max-width: 1900px; */
   padding: 20px 25px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* align-items: center; */
 }
 
 /**** Navigation ****/
@@ -137,7 +135,7 @@ a {
 .footer {
   position: static;
   bottom: 0;
-  font-family: var(--font-secondary);
+  font-family: var(--font-info);
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
