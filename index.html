@@ -1,42 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1,
-  maximum-scale=5"
-    />
-
-    <link rel="icon" href="devchallenges.png" />
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="https://devchallenges.io/"
-    />
-
     <title>404 Not found</title>
-    <link rel="stylesheet" href="style.css" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=5" />
+    <meta name="keywords" content="devchallengues, 404, not found" />
+    <meta name="description" content="404 Not found website" />
+    <meta name="theme-color" content="#16161D" />
+
+    <!-- <link rel="icon" href="./devchallenges.png" /> -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://devchallenges.io/" />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <!-- <link rel="manifest" href="manifest.json" /> -->
+
+    <meta name="description" content="404 Not found website" data-react-helmet="true" />
+    <meta property="og:title" content="404 Not found" data-react-helmet="true" />
+    <meta property="og:description" content="404 Not found website" data-react-helmet="true" />
+    <meta property="og:url" content="" data-react-helmet="true" />
+    <meta property="og:image" content="logo192.png" data-react-helmet="true" />
   </head>
   <body>
-    <div class="container">
-      <nav class="nav">
-        <a href="#">404 Not found</a>
-      </nav>
-      <section class="principal">
-        <picture>
-          <img src="Scarecrow.png" alt="Scarecrow" />
-        </picture>
-        <div class="content">
-          <h1 class="title">I have bad news for you</h1>
-          <p class="subtitle">
-            The page you are looking for might be removed or is temporarily
-            unavailable
-          </p>
-          <button>Back to homepage</button>
-        </div>
-      </section>
-      <footer class="footer">Brando Vidal @ DevChallenges.io</footer>
+    <div id="app">
+      <div class="container">
+        <nav class="nav">
+          <a href="#">404 Not found</a>
+        </nav>
+        <section class="principal">
+          <picture>
+            <img src="scarecrow.png" alt="Scarecrow" />
+          </picture>
+          <div class="content">
+            <h1 class="title">I have bad news for you</h1>
+            <p class="subtitle">The page you are looking for might be removed or is temporarily unavailable</p>
+            <button>Back to homepage</button>
+          </div>
+        </section>
+        <footer class="footer">Brando Vidal @ DevChallenges.io</footer>
+      </div>
     </div>
+
+    <script type="module" src="./main.js"></script>
   </body>
 </html>

@@ -39,11 +39,11 @@
 
 _Screenshot Laptop_
 
-![Screenshot Laptop](404-not-found.png)
+![Screenshot Laptop](./404-not-found.png)
 
 _Screenshot Mobile_
 
-![Screenshot Mobile](404-not-found-mobile.png)
+![Screenshot Mobile](./404-not-found-mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
