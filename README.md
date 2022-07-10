@@ -81,6 +81,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Brando Vidal](https://brandovidal.com)
 - GitHub [@brandovidal](https://github.com/brandovidal)
 - Twitter [@brandovidal](https://twitter.com/brandovidal_)
